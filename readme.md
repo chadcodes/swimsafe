@@ -1,11 +1,12 @@
 ## Swim Safe
 
 **Description**
+
 A rails app built to scrape xml and html data from the city of Toronto website.  The website should display historical data and weather of all Toronto Beaches for the season (June to August).  The app should be able to get your current location and provide data for the beach closest to you.  The app should provide information about the blue flag criteria.  The app should use familiar icons from the city of Toronto website.  The app should provide a google map with each beach
 
 **Getting started**
-This app has 2 data sources which will be scraped on a daily basis.  The app will
 
+This app has 2 data sources which will be scraped on a daily basis.  The app will
 
 
 1. Open data in XML format from the city: http://app.toronto.ca/tpha/ws/beaches.xml?v=1.0
